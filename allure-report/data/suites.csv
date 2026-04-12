@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","3","Login To Application With Valid Credentials","firefox","2026-04-10","failed","2026-04-10","All Login Scenarions","LoginTest.spec.js","",""
+"","2","Login To Application With Valid Credentials","chromium","2026-04-10","failed","2026-04-10","All Login Scenarions","LoginTest.spec.js","",""
+"","3","Login To Application With Valid Credentials","webkit","2026-04-10","failed","2026-04-10","All Login Scenarions","LoginTest.spec.js","",""
