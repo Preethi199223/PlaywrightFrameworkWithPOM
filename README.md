@@ -1,7 +1,7 @@
 
 ## Run Locally
 
-Clone the project
+Clone the project and for private repo use credentials
 
 ```bash
   git clone https://github.com/Preethi199223/PlaywrightFrameworkWithPOM.git
